@@ -290,7 +290,7 @@ DeepakLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 deepakbody = `Hello @${deepakName.split("@")[0]},
-I am *ZenitsuBot*, Welcome to ${metadata.subject}.
+I am *𝘾𝙇𝞘𝞜𝙏𝞗𝞜-𝞑𝞗𝙏*, Welcome to ${metadata.subject}.
 *Group Description:*
 ${metadata.desc}`
 DeepakBotInc.sendMessage(anu.id,
