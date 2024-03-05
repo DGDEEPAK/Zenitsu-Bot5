@@ -71,7 +71,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 - FORK THE REPOSITORY [Here](https://github.com/DGDEEPAK/Zenitsu-Bot5/fork)
    
 ## `Scan QR Code For Session`
-[![Zenitsu-Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@deepakbots/Zenitsu-PairCode#main.sh)
+[![Zenitsu-Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@deepakbots/Zenitsu6paircode#main.sh)
    
 ## ` BUILDPACKS`
 
