@@ -2,12 +2,12 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoReading = false //auto recording (true to on, false to off)
-global.autoTyping = false //auto tying (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
-global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.autoReading = true //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
+global.autoblockmorroco = true //auto block 212 (true to on, false to off)
+global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -22,26 +22,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "918348225320" //ur owner number2
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
-global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
-global.location = "India, West Bengal, Darjeeling" //ur location
+global.ownernomer = "2348160208114" //ur owner number2
+global.ownername = "𝙇𝞢𝙇𝞗𝞠" //ur owner name
+global.ytname = "YT: Clintonlelop" //ur yt chanel name
+global.socialm = "GitHub: Clintonlelop" //ur github or insta name
+global.location = "Nigeria, Enugu, Enugu" //ur location
 
 //new
-global.botname = "Zenitsu-Bot MD"
-global.ownernumber = '918348225320'
-global.ownername = '🦄Dream Guy Deepak'
-global.ownerNumber = ["918348225320@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@dreamguydeepak"
-global.websitex = "https://youtube.com/@dreamguydeepak"
+global.botname = "𝘾𝙇𝞘𝞜𝙏𝞗𝞜 𝞑𝞗𝙏"
+global.ownernumber = '2348160208114'
+global.ownername = '𝙇𝞢𝙇𝞗𝞠'
+global.ownerNumber = ["2348160208114@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@Clintonlelop"
+global.websitex = "https://youtube.com/@Clintonlelop"
 global.wagc = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"
-global.themeemoji = '🦄'
-global.wm = "Deepak Bot Inc."
-global.botscript = 'https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835' //script link
-global.packname = "Sticker By"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "918348225320@s.whatsapp.net"
+global.themeemoji = '🗿'
+global.wm = "𝘾𝙇𝞘𝞜𝙏𝞗𝞜 𝞑𝞗𝙏"
+global.botscript = 'https://chat.whatsapp.com/FDlFIJG8b3E8MzLHyuqqS8' //script link
+global.packname = "𝘾𝙇𝞘𝞜𝙏𝞗𝞜"
+global.author = "𝞑𝞗𝙏"
+global.creator = "2348160208114@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
